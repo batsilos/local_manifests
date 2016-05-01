@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/Xiaomi/HM2014011" name="ferhung-mtk/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
-  <project path="vendor/Xiaomi/HM2014011" name="ferhung-mtk/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="device/jiayu/g4s" name="batsilos/android_device_jiayu_g4s" revision="cm-13.0" />
+  <project path="vendor/jiayu/g4s" name="batsilos-mtk/android_vendor_jiayu_g4s" revision="cm-13.0" />
 
   <remove-project name="platform/frameworks/testing" />
 
